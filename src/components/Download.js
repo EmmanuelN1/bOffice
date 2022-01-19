@@ -23,8 +23,8 @@ function Download() {
                     <div className="p-6 flex flex-col items-center ">
                         <Image
                         src={img4}
-                        height={220}
-                        width={250}
+                        height={120}
+                        width={150}
                         />
                         <h3 className="mt-5 mb-2 text-gray-00 text-lg text-center">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum deleniti mollitia maiores.
@@ -41,8 +41,8 @@ function Download() {
                     <div className="p-6 flex flex-col items-center ">
                         <Image
                         src={img7}
-                        height={220}
-                        width={250}
+                        height={120}
+                        width={150}
                         />
                         <h3 className="mt-5 mb-2 text-gray-00 text-lg text-center">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum deleniti mollitia maiores.
@@ -60,8 +60,8 @@ function Download() {
                     <div className="p-6 flex flex-col items-center ">
                         <Image
                         src={img3}
-                        height={220}
-                        width={250}
+                        height={120}
+                        width={150}
                         />
                         <h3 className="mt-5 mb-2 text-gray-00 text-lg text-center">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum deleniti mollitia maiores.
@@ -78,4 +78,4 @@ function Download() {
     )
 }
 
-export default Download
+export default Download;

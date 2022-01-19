@@ -15,7 +15,7 @@ function Nav() {
                      alt=""/>
                 </div>
 
-                <ul className="hidden sm:flex flex-1 justify-end items-center gap-12 text-b-black uppercase text-xs">
+                <ul className="hidden sm:flex flex-1 justify-end items-center gap-12 text-b-black capitalize text-s">
                         <li className="cursor-pointer">About</li>
                         <li className="cursor-pointer">Features</li>
                         <li className="cursor-pointer">Pricing</li>
