@@ -5,7 +5,7 @@ import Twitter from "@material-ui/icons/Twitter";
 function Footer() {
     return (
         <div className="bg-gray-800 py-4 " >
-            < div className="container flex flex-col md:flex-row lg:flex-row it ems-center">
+            < div className="container flex flex-col md:flex-row lg:flex-row items-center">
                 <div className="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
                      <Image 
                      src={logo}

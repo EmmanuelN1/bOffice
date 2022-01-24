@@ -16,7 +16,7 @@ function Header() {
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi et eaque quos eius eos cupiditate odio ducimus inventore suscipit beatae assumenda impedit tenetur nihil id, consectetur ratione, voluptatem fugit veniam!
                     </p>
 
-                    <div className="flex justify-center flex-wrap gap-6">
+                    <div className="flex justify-center flex-wrap  gap-8 md:gap-6 lg:gap-6">
                         <button className="btn btn_blue "> About Us </button>
                         <button className="btn btn_grey"> Contact Us </button>
                     </div>
