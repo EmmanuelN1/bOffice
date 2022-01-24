@@ -3,7 +3,7 @@ import img1 from "../assets/pic8.png"
 
 function Features() {
     return (
-        <div className="bg-gray-50 py-20 mt-20 lg:mt-50">
+        <div className=" py-20 mt-20 lg:mt-50">
             <div className="sm:w-3/4 lg:w-7/12 mx-auto px-2">
 
             <h1 className="text-2xl text-center">Features</h1>

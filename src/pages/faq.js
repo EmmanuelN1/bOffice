@@ -1,12 +1,14 @@
 import ArrowDown from "@material-ui/icons/ArrowDownwardSharp"
+import Nav from "../components/Nav"
+
 function Faq() {
     return (
-        <div className="bg-gray-50 py-20">
-            <div className="container">
+        <div className="">
+            <Nav/>
+            <div className="container ">
                     <div className="sm:w-3/4 lg:w-7/12 mx-auto px-2">
-
-                    <h1 className="text-2xl text-center">Frequently Asked Questions</h1>
-                    <p className="text-center mt-2 text-gray-400">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus delectus dignissimos aut obcaecati, perferendis harum repudiandae deserunt accusamus. </p>
+                    <h1 className="text-2xl text-center pt-10">Frequently Asked Questions</h1>
+                    <p className="text-center mt-2 text-gray-400 ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus delectus dignissimos aut obcaecati, perferendis harum repudiandae deserunt accusamus. </p>
                     </div>  
             </div>
 

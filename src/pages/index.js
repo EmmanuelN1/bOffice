@@ -1,11 +1,11 @@
 import Head from "next/head";
 import Nav from "../components/Nav"
 import Header from "../components/Header";
-import Features from "../components/Features";
-import Download from "../components/Download";
-import Faq from "../components/Faq";
+
 import Newsletter from "../components/Newsletter"
 import Footer from "../components/Footer";
+import Features from "../components/Features";
+import Download from "../components/Download";
 
 
 export default function Home() {
@@ -18,7 +18,6 @@ export default function Home() {
         <Header/>
         <Features/>
         <Download/>
-        <Faq/>
         <Newsletter/>
         <Footer/>
       
